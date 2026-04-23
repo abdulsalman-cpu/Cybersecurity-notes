@@ -1,6 +1,28 @@
-#Starting day of Journey April 23,2026 Day 1                                                                                                      ## **CyberSecurity**                                                                                                                              ----------------------   
-CyberSecurity is a Pratice to Protect Computers,Systems,Network and data from attacks and Unathorize Use                                           ----------------- 
-##**CIA Triad**                                                                                                                                   Most People in the field focus on three things often called CIA Tirad
--**(C)** Confidentiality : Keeping secrets Secret.Only the right people should see the data     
-**(I)** Integrity : making sure the data is accurate.No one should be able to mess with the information without permission 
-**(A)** Availability : Making sure the systems Work.You should be able to access your data whenever you need it                                                                     
+# Starting Day of Journey
+📅 April 23, 2026  
+## Day 1 – Cybersecurity Basics
+
+---
+
+## 🔐 What is Cybersecurity?
+Cybersecurity is the practice of protecting computers, systems, networks, and data from attacks or unauthorized access.
+
+---
+
+## 🧱 CIA Triad
+Most people in cybersecurity focus on three main principles called the **CIA Triad**:
+
+### (C) Confidentiality
+Keeping secrets secret. Only authorized users should be able to access the data.
+
+### (I) Integrity
+Making sure data is accurate and has not been modified without permission.
+
+### (A) Availability
+Ensuring systems and data are available when needed and working properly.
+
+---
+
+## 💡 Key Idea
+Cybersecurity is about balancing all three:  
+**protecting data, keeping it accurate, and making sure it's accessible.**
