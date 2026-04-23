@@ -26,3 +26,32 @@ Ensuring systems and data are available when needed and working properly.
 ## 💡 Key Idea
 Cybersecurity is about balancing all three:  
 **protecting data, keeping it accurate, and making sure it's accessible.**
+## 2 - The Danger: V.T.R. Formula
+
+### 📊 V.T.R Formula
+Vulnerability + Threat = Risk
+
+---
+
+### 🔐 Vulnerability
+A weakness in a system (like a hole in a fence) that can be exploited.
+
+---
+
+### ⚠️ Threat
+The danger that can take advantage of a vulnerability  
+(e.g., a hacker, malware, or even a natural event like a storm).
+
+---
+
+### 📉 Risk
+The chance that something bad will actually happen when a threat uses a vulnerability.
+
+---
+
+### 💡 Simple Meaning
+- Vulnerability = Weak point  
+- Threat = Danger that exploits it  
+- Risk = Likelihood of harm happening  
+
+👉 When a vulnerability meets a threat, it creates risk.
