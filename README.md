@@ -49,9 +49,9 @@ The chance that something bad will actually happen when a threat uses a vulnerab
 
 ---
 
-### 💡 Simple Meaning
+###  Simple Meaning
 - Vulnerability = Weak point  
 - Threat = Danger that exploits it  
 - Risk = Likelihood of harm happening  
 
-👉 When a vulnerability meets a threat, it creates risk.
+When a vulnerability meets a threat, it creates risk.
