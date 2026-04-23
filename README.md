@@ -1,15 +1,15 @@
 # Starting Day of Journey
-📅 April 23, 2026  
+April 23, 2026  
 ## Day 1 – Cybersecurity Basics
 
 ---
 
-## 🔐 What is Cybersecurity?
+## What is Cybersecurity?
 Cybersecurity is the practice of protecting computers, systems, networks, and data from attacks or unauthorized access.
 
 ---
 
-## 🧱 CIA Triad
+## CIA Triad
 Most people in cybersecurity focus on three main principles called the **CIA Triad**:
 
 ### (C) Confidentiality
