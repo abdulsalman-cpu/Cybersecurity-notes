@@ -55,3 +55,33 @@ The chance that something bad will actually happen when a threat uses a vulnerab
 - Risk = Likelihood of harm happening  
 
 When a vulnerability meets a threat, it creates risk.
+## 3 - When We Lose: The DAD Result
+
+If security fails, the opposite of the CIA Triad can happen. This is called the **DAD Result**.
+
+---
+
+### D - Disclosure
+Secrets get exposed or leaked.  
+Opposite of Confidentiality
+
+---
+
+### A - Alteration
+Data is changed without permission.  
+ Opposite of Integrity
+
+---
+
+### D - Destruction
+Data or systems are damaged or deleted.  
+
+---
+
+### Simple Meaning
+When security fails:
+- Confidentiality is broken → data leaks  
+- Integrity is broken → data is changed  
+- Availability can be broken → systems go down  
+
+The DAD Result shows what happens when cybersecurity fails.
