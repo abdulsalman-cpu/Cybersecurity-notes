@@ -1,0 +1,41 @@
+# TCP/IP Model (Cybersecurity)
+
+The TCP/IP model is the practical version of networking used on the internet.  
+It simplifies the OSI model into 4 layers.
+
+## OSI vs TCP/IP Mapping
+
+| OSI Layer        | TCP/IP Layer   | Function                          |
+|------------------|---------------|-----------------------------------|
+| 7,6,5 (App/Pres/Sess) | Application   | HTTP, FTP, DNS                    |
+| 4 (Transport)    | Transport     | TCP, UDP                          |
+| 3 (Network)      | Internet      | IP routing                        |
+| 2,1 (Data/Physical) | Network Access | MAC, hardware                     |
+
+---
+
+## Encapsulation (How Data Moves)
+
+- Data → Application  
+- Segment → Transport (TCP/UDP added)  
+- Packet → Internet (IP added)  
+- Frame → Network Access (MAC added)  
+- Bits → Physical signals  
+
+---
+
+## Important Protocols
+
+- ARP – maps IP to MAC  
+- DNS – converts domain to IP  
+- DHCP – assigns IP automatically  
+- ICMP – used for ping/troubleshooting  
+
+---
+
+## Layer 8 (Human Factor)
+
+- User = weakest link  
+- Example: phishing, social engineering  
+
+---
