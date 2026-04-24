@@ -1,0 +1,22 @@
+# OSI Model 
+
+The OSI (Open Systems Interconnection) model explains how data moves through a network using 7 layers.
+It helps identify where attacks happen and how to defend them.
+
+## OSI Layers Overview
+
+| Layer | Name         | Function                 | Common Attacks               |
+|------|--------------|--------------------------|------------------------------|
+| 7    | Application  | User interaction         | SQLi, XSS                    |
+| 6    | Presentation | Encryption/format        | Malware in encrypted traffic |
+| 5    | Session      | Connection management    | Session hijacking            |
+| 4    | Transport    | Data delivery (TCP/UDP)  | Port scanning                |
+| 3    | Network      | IP routing               | IP spoofing, DDoS            |
+| 2    | Data Link    | MAC address              | MAC spoofing                 |
+| 1    | Physical     | Hardware                 | Wire damage, tapping         |
+
+## Why It Matters
+
+- Identify where an attack is happening
+- Apply the correct defense
+- Troubleshoot network and security issues
