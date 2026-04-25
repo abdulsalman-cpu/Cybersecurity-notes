@@ -83,3 +83,34 @@ Ethical hackers are authorized to test systems for weaknesses. Their goal is to 
 
 ### Explanation
 The `-u` flag specifies the target URL in Gobuster. Other flags include `-w
+# What is the name for a piece of data when it does have IP addressing information?
+
+## Options
+- Frame  
+- Packet  
+- Segment  
+- Bit  
+- Stream  
+
+## Correct Answer
+Packet  
+
+## Explanation
+A packet is a unit of data at the Network Layer (Layer 3) that includes IP addressing information. This allows the data to be routed across networks.
+
+---
+
+# What is the name for a piece of data when it does not have IP addressing information?
+
+## Options
+- Packet  
+- Frame  
+- Segment  
+- Bit  
+- Datagram  
+
+## Correct Answer
+Frame  
+
+## Explanation
+A frame is a unit of data at the Data Link Layer (Layer 2) and uses MAC addresses instead of IP addresses. It does not contain IP addressing information used for routing across networks.
