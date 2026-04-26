@@ -1,0 +1,44 @@
+🐧 Linux Basic Commands Cheat Sheet
+===================================
+
+📌 Commands
+-----------
+ls        ---> show files and folders in current directory
+cd folder ---> go inside a folder
+cd ..     ---> go one step back
+pwd       ---> show current directory (where you are)
+whoami    ---> show current user
+cat file  ---> read/open a file
+
+-------------------------------
+
+🧠 Example Usage
+---------------
+ls
+# output: folder1 folder2 file.txt
+
+cd folder1
+# go inside folder1
+
+cd ..
+# go back
+
+cat file.txt
+# read file content
+
+-------------------------------
+
+⚡ Ultra Short Memory Version
+----------------------------
+ls = list
+cd = change directory
+pwd = where am I
+whoami = user
+cat = read file
+cd .. = back
+
+-------------------------------
+
+🚀 Goal
+-------
+Practice daily until commands feel natural (no thinking needed)
