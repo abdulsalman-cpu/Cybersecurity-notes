@@ -42,3 +42,37 @@ cd .. = back
 🚀 Goal
 -------
 Practice daily until commands feel natural (no thinking needed)
+🐧 Linux Command - echo
+======================
+
+📌 What is echo?
+---------------
+echo ---> prints text on screen
+
+-------------------------------
+
+🧠 Example Usage
+---------------
+echo Hello
+# output: Hello
+
+echo "Hello Friend!"
+# output: Hello Friend!
+
+-------------------------------
+
+💡 Pro Tip
+----------
+Use quotes "" when sentence has spaces
+
+-------------------------------
+
+⚡ Ultra Short Memory Version
+----------------------------
+echo = print text
+
+-------------------------------
+
+🚀 Goal
+-------
+Use echo to display messages and test commands
