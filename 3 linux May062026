@@ -1,0 +1,88 @@
+# Day 2-10 — Linux Notes
+
+## Navigation
+```bash
+pwd
+ls
+ls -a
+ls -l
+cd folder
+cd ..
+cd ~
+```
+
+## Files & Folders
+```bash
+mkdir test
+touch file.txt
+touch folder/file.txt
+```
+
+## Write Text
+```bash
+echo hello > file.txt
+echo world >> file.txt
+cat file.txt
+```
+
+## Copy & Move
+```bash
+cp file.txt copy.txt
+mv copy.txt moved.txt
+mv file.txt folder/
+```
+
+## Delete
+```bash
+rm file.txt
+rm -r folder
+rm -rf folder
+```
+
+## Search
+```bash
+grep hello file.txt
+grep -i hello file.txt
+grep -rin hello folder/
+find ~ -name "file.txt"
+```
+
+## Operators
+```bash
+mkdir lab && cd lab
+sleep 5 &
+jobs
+```
+
+## Permissions
+```bash
+chmod 600 secret.txt
+chmod 644 notes.txt
+chmod 755 script.sh
+```
+
+## Permission Numbers
+```text
+7 = rwx
+6 = rw-
+5 = r-x
+4 = r--
+0 = ---
+```
+
+## SSH
+```bash
+ssh user@ip
+```
+
+## Relative Paths
+```text
+.. = go back one folder
+/ = go inside folder
+```
+
+## Example Paths
+```bash
+../../teachers/math.txt
+lab/office/finance/reports/budget.txt
+```
