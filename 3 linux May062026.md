@@ -78,7 +78,10 @@ ssh user@ip
 ## Relative Paths
 ```text
 .. = go back one folder
-/ = go inside folder
+/ = go inside folder<img width="738" height="751" alt="Screenshot 2026-05-06 at 10 32 07 AM" src="https://github.com/user-attachments/assets/087d2109-ace5-450c-9aff-3ec1c9e2f46f" />
+<img width="731" height="750" alt="Screenshot 2026-05-06 at 10 31 35 AM" src="https://github.com/user-attachments/assets/3c5e05c2-6282-4056-a57b-857fc791b7d9" />
+<img width="583" height="748" alt="Screenshot 2026-05-06 at 10 29 55 AM" src="https://github.com/user-attachments/assets/23bfa452-d1d9-4253-8f6e-89a00d538666" />
+
 ```
 
 ## Example Paths
