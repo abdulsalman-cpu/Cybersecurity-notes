@@ -16,6 +16,9 @@ Diagnosing HTTPS from port 443 and web-server configuration through TLS/SNI/cert
 ### [Bash Service Health Checker](portfolio/bash-service-health-checker.md)
 A small Bash automation project that checks a systemd service and gathers status/log evidence when the service is down. [View the script](scripts/service-health-check.sh).
 
+### [Layered Network Diagnostic Script](portfolio/bash-network-diagnostic.md)
+Bash evidence-collection tool following the troubleshooting path **interface/IP → route → neighbor → DNS → sockets**. [View the script](scripts/network-diagnostic.sh).
+
 ## Current Skills in Practice
 
 **Linux:** SSH, systemd, journalctl, processes, users/groups, permissions, storage, logs, cron, package management, grep/find, Apache, Nginx
@@ -24,7 +27,7 @@ A small Bash automation project that checks a systemd service and gathers status
 
 **Security:** Linux permissions, firewall concepts, AppArmor, capabilities, TLS/certificates, SNI, service exposure and verification
 
-**Automation:** Bash fundamentals, conditions, exit codes, service-health scripting
+**Automation:** Bash fundamentals, conditions, exit codes, service-health and diagnostic scripting
 
 ## Repository Structure
 
