@@ -13,6 +13,9 @@ A layered diagnostic path: **interface/IP → routing → ARP/neighbor → DNS �
 ### [HTTPS / TLS Troubleshooting](portfolio/web-tls-troubleshooting.md)
 Diagnosing HTTPS from port 443 and web-server configuration through TLS/SNI/certificates and the final HTTP response.
 
+### [Bash Service Health Checker](portfolio/bash-service-health-checker.md)
+A small Bash automation project that checks a systemd service and gathers status/log evidence when the service is down. [View the script](scripts/service-health-check.sh).
+
 ## Current Skills in Practice
 
 **Linux:** SSH, systemd, journalctl, processes, users/groups, permissions, storage, logs, cron, package management, grep/find, Apache, Nginx
@@ -21,11 +24,12 @@ Diagnosing HTTPS from port 443 and web-server configuration through TLS/SNI/cert
 
 **Security:** Linux permissions, firewall concepts, AppArmor, capabilities, TLS/certificates, SNI, service exposure and verification
 
-**Automation:** Bash fundamentals and scripting practice
+**Automation:** Bash fundamentals, conditions, exit codes, service-health scripting
 
 ## Repository Structure
 
 - `portfolio/` — selected troubleshooting labs for employers and interviews
+- `scripts/` — Bash automation projects
 - `Linux/` — Linux administration and troubleshooting notes
 - `Networking/` — networking fundamentals and practice
 - `Windows/` — Windows/OpenSSH practice
